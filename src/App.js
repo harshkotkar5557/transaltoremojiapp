@@ -5,17 +5,19 @@ import './App.css';
 function App() {
   
   const emojiDictionary = {
-    "😊": "Smiling",
-    "😳": "disbelief",
-    "😔": "sad",
-    "🥡": "takeout box",
-    "❤️": "love",
+    "🍕": "Pizza",
+    "🥚": "Egg",
+    "🍓": "strawberry",
+    "🛴": "Kick scooter",
+    "🤐": "zipper mouth face",
     '🥰': "Smiling face with hearts",
     "😎": "Smiling face with sunglasses",
     "😏": "Smirking face",
     "🚗": "Automobile",
     "🎂": "Cake",
-    '👀':"Eyes"
+    '👀': "Eyes",
+    '😫': "tried Face",
+    "😭": "loudly crying"
   };
   const emojis = Object.keys(emojiDictionary);
 
