@@ -1,3 +1,6 @@
+Simple application to find out meaning of different emojis we commonly use
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
