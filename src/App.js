@@ -40,14 +40,20 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Emoji Interpreter App</h1>
+      <h1 className='title' >Emoji Interpreter App</h1>
+      <div className='container'>
+      <div class="input_section">
       <input
         onChange={changeHandler}
         value={emoji}
         placeholder={"Search your emoji"}
       />
-      <h2> {emoji} </h2> 
-      <h3> {meaning} </h3>
+      </div>
+        <div className="result_section">
+        <h2 > {emoji} </h2> 
+      <h1 className={meaning == "Emoji not found" ? "box errorMsg" : 'box'}> {meaning} </h1>
+     </div>
+     
       <div className='emojiDiv'>
       { emojis.map((emoji) => (
           <span
@@ -58,6 +64,8 @@ function App() {
         ))
       }
       </div>
+      </div>
+     
       <section class="footer">
         <p>hareshkotkar</p>
         <ul>
