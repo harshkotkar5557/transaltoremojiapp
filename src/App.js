@@ -51,7 +51,7 @@ function App() {
       </div>
         <div className="result_section">
         <h2 > {emoji} </h2> 
-      <h1 className={meaning == "Emoji not found" ? "box errorMsg" : 'box'}> {meaning} </h1>
+      <h1 className={meaning === "Emoji not found" ? "box errorMsg" : 'box'}> {meaning} </h1>
      </div>
      
       <div className='emojiDiv'>
