@@ -1,7 +1,6 @@
-# Simple application to find out meaning of different emojis we commonly use
-Here i use 
-1. React hooks 
-2. React component
+# Emoji Enterpreter App
+This app helps you in finding the name of emoji through search or by clicking on the emojis.
+Used ReactJS to build this application
 
 Check it :https://emojiappp.netlify.app/
 
