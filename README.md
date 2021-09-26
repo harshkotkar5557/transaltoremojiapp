@@ -1,5 +1,8 @@
-Simple application to find out meaning of different emojis we commonly use
-
+# Simple application to find out meaning of different emojis we commonly use
+Here i use 
+1. React hooks 
+2. React component
+Check it :https://emojiappp.netlify.app/
 
 # Getting Started with Create React App
 
