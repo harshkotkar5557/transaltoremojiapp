@@ -5,17 +5,26 @@ import './App.css';
 function App() {
   
   const emojiDictionary = {
-    "🍕": "Pizza",
-    "🥚": "Egg",
-    "🍓": "strawberry",
-    "🛴": "Kick scooter",
+    "🤣": "Hilarious",
+  "😃": "Grinning Face with Big Eyes",
+  "🥡": "Takeout box",
+  "😪": "Tired",
+  "😀": "Grinning Face",
+  "😂": "Face with Tears of Joy",
+  "🤩": "Fascinated",
+  "🙂": "Slightly Smiling Face",
+  "😄": "Grinning Face with Smiling Eyes",
+  "😅": "Grinning Face with Sweat",
+  "🙃": "Upside-Down Face",
+  "😁": "Beaming Face with Smiling Eyes",
+  "😳": "Disbelief",
+  "😆": "Grinning Squinting Face",
+  "😔": "Sad",
+  "😑": "Annoyance",
     "🤐": "zipper mouth face",
     '🥰': "Smiling face with hearts",
     "😎": "Smiling face with sunglasses",
     "😏": "Smirking face",
-    "🚗": "Automobile",
-    "🎂": "Cake",
-    '👀': "Eyes",
     '😫': "tried Face",
     "😭": "loudly crying"
   };
@@ -69,11 +78,11 @@ function App() {
       <section class="footer">
         <p>hareshkotkar</p>
         <ul>
-            <li><a href="https://github.com/harshkotkar5557" alt="#"><i class="fab fa-github">&nbsp;Github</i></a></li>
-            <li><a href="https://twitter.com/KotkarHaresh" alt="#"><i class="fab fa-linkedin">&nbsp;LinkedIn</i></a>
+            <li><a href="https://github.com/harshkotkar5557" alt="#"><i class="fab fa-github">&nbsp;</i></a></li>
+            <li><a href="https://www.linkedin.com/in/harsh-kotkar-389a08139/" alt="#"><i class="fab fa-linkedin">&nbsp;</i></a>
             </li>
-            <li><a href="https://www.linkedin.com/in/harsh-kotkar-389a08139/" alt="#"><i
-                        class="fab fa-twitter">&nbsp;Twitter</i></a></li>
+            <li><a href="https://twitter.com/KotkarHaresh" alt="#"><i
+                        class="fab fa-twitter">&nbsp;</i></a></li>
         </ul>
     </section>
     </div>
