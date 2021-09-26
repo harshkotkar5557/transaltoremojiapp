@@ -2,7 +2,7 @@
 This app helps you in finding the name of emoji through search or by clicking on the emojis.
 Used ReactJS to build this application
 
-Check it :https://emojiappp.netlify.app/
+Check out here:https://emojiappp.netlify.app/
 
 # Getting Started with Create React App
 
